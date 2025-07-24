@@ -1,5 +1,5 @@
 # Faculdade
-Específico para armazenamento de arquivos da faculdade
+Específico para armazenamento de arquivos da faculdade sobre o trabalho de visão computacional
 ## Sumário
 - [Classificação - Valores e Produtos - Documento](./Visão%20Computacional/Classificação.md)
 - [Classificação - Valores e Produtos - Código](/Visão%20Computacional/Inteligência_Computacional_Luan_%26_Laís.ipynb)
