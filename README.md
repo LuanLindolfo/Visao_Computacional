@@ -7,7 +7,8 @@ Diretório específico para armazenamento de arquivos com fins acadêmicos
 
 #### Fonte: [ONS - Operador Nacional de Sistema Elétrico - Consumo Diário por Região](https://dados.ons.org.br/dataset/carga-energia)
 
-Alunos: Lais Sansara e Luan Lindolfo
+## Docente: Prof.dra. Evelin Helena Cardoso Gomes
+## Discentes: Lais Sansara S. Silva e Luan Evaristo M. Lindolfo
 ## Sumário - Trabalho Final
 - [Classificação - Dados de consumo de energia em MWmed - Documento - Trabalho Final]()
 - [Classificação - Dados de consumo de energia em MWmed - Código - Trabalho Final](/Energia_norte.ipynb)
