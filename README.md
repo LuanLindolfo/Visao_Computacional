@@ -1,9 +1,13 @@
 # Faculdade
-Específico para armazenamento de arquivos da faculdade sobre o trabalho de visão computacional
+Diretório específico para armazenamento de arquivos com fins acadêmicos
 
-# Trabalho Final
-## Visão Computacional - Uso de algoritmos de Classificação em um banco de dados público da Polícia Rodoviária Federal no primeiro semestre de 2025.
-### Objetivo: Aplicar um algoritmo de classificação que correlacione a causa com as características que envolveram o acidente com dados de janeiro a junho de 2025.
+# Trabalho Final - Visão Computacional
+### Base de dados contenco a média diária de consumo de energia diário em MWmed por região do Brasil (Norte [N], Nordeste [NE], Sudeste/Centro-Oeste [SE] e Sul [S])
+#### Filtro aplicado para obter a média da região Norte [N] e verificar se o dia é classificado como um dia que potencialmente foi de sobrecarga de energia ou não (por volta do consumo diário no valor de 8340 MWmed)
+
+#### Fonte: [ONS - Operador Nacional de Sistema Elétrico - Consumo Diário por Região](https://dados.ons.org.br/dataset/carga-energia)
+
+Alunos: Lais Sansara e Luan Lindolfo
 ## Sumário - Trabalho Final
-- [Classificação - Dados PRF - Documento - Trabalho Final](/Classificação/README)
-- [Classificação - Dados PRF - Código - Trabalho Final](/acidente.ipynb)
+- [Classificação - Dados de consumo de energia em MWmed - Documento - Trabalho Final]()
+- [Classificação - Dados de consumo de energia em MWmed - Código - Trabalho Final](/Energia_norte.ipynb)
