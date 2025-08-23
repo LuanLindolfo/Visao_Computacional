@@ -14,5 +14,5 @@ Diretório específico para armazenamento de arquivos com fins acadêmicos
 
 
 ## Sumário - Trabalho Final
-- [Classificação - Dados de consumo de energia em MWmed - Documento - Trabalho Final](/main/Energia_Classificação_Final.ipynb)
-- [Classificação - Dados de consumo de energia em MWmed - Código - Trabalho Final](/Energia_norte.ipynb)
+- [Classificação - Dados de consumo de energia em MWmed - Documento - Trabalho Final]()
+- [Classificação - Dados de consumo de energia em MWmed - Código - Trabalho Final](/Energia_Classificação_Final.ipynb)
