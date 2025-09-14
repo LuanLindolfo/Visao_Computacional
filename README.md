@@ -1,7 +1,7 @@
-# Faculdade
+# Universidade Federal do Pará
 Diretório específico para armazenamento de arquivos com fins acadêmicos
 
-# Trabalho Final - Visão Computacional - Universidade Federal do Pará
+# Trabalho Final - Visão Computacional
 **Docente: Prof.dra. Evelin Helena Cardoso Gomes**
 
 **Discentes: Lais Sansara S. Silva e Luan Evaristo M. Lindolfo**
