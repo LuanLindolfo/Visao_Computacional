@@ -1,4 +1,4 @@
-# Universidade Federal do Pará
+# Universidade Federal do Pará - UFPA
 Diretório específico para armazenamento de arquivos com fins acadêmicos
 
 # Trabalho Final - Visão Computacional
