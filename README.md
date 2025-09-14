@@ -7,8 +7,10 @@ Diretório específico para armazenamento de arquivos com fins acadêmicos
 **Discentes: Lais Sansara S. Silva e Luan Evaristo M. Lindolfo**
 
 ### Base de dados contendo a média diária de consumo de energia diário em MWmed por região do Brasil (Norte [N], Nordeste [NE], Sudeste/Centro-Oeste [SE] e Sul [S]), datas de 01/01/2023 - 07/08/2025
-#### Objetivo: Verificar se o dia é classificado como um dia que potencialmente foi de sobrecarga de energia ou não sendo as classes: "Baixa", "Média" e "Alta"
-**Observação: Filtro aplicado para obter a média da região Norte [N]**
+#### Objetivo: Verificar se o dia é classificado como um dia que potencialmente foi de sobrecarga de energia ou não sendo as classes: "Baixa", "Média" e "Alta".
+**Observações:**
+  - Filtro aplicado para obter a média da região Norte [N].
+  - O documento foi desenvolvido em LaTeX, no Overleaf.
 
 #### Fonte: [ONS - Operador Nacional de Sistema Elétrico - Consumo Diário por Região](https://dados.ons.org.br/dataset/carga-energia)
 
